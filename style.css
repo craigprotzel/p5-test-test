@@ -1,0 +1,12 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: rgb(157, 232, 157);
+}
+
+canvas{
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;    
+}
